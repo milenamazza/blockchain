@@ -1,0 +1,12 @@
+./.git/objects/2c/d7b63472d4086f8f027981c2be8e528a267f64
+./.git/objects/34/b0f7038e795b4b4e77e667d10b5cb4390c3698
+./00_gnn/all_tx.csv
+./00_gnn/all_wallet.csv
+./analisi/GRAFO/G_wallet.pkl
+./analisi/GRAFO/G_wallet_clean.pkl
+./analisi/GRAFO/node_features_with_degree_centrality.csv
+./E++/AddrAddr_edgelist.csv
+./E++/txs_features.csv
+./E++/txs_features_classes_metric.csv
+./E++/wallets_features.csv
+./E++/wallets_features_classes_combined.csv
